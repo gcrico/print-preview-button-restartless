@@ -1,0 +1,12 @@
+{
+    "name": "print-preview-button-restartless",
+    "title": "print-preview-button-restartless",
+    "id": "jid1-qu5CrASUGWsiVg",
+    "description": "This extension adds a \"Print Preview\" button to the main toolbar.",
+    "author": "guillaume-crico",
+    "license": "MPL 2.0",
+    "version": "1.0.0",
+    "permissions": {
+        "private-browsing": true
+     }
+}
